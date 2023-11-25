@@ -1,3 +1,6 @@
 [submodule "ribbit-rs"]
 	path = ribbit-rs
 	url = https://github.com/haoyuan80s/ribbit-rs.git
+[submodule "ribbit-py"]
+	path = ribbit-py
+	url = https://github.com/haoyuan80s/ribbit-py.git
